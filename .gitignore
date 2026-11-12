@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+.claude/
+REPORT.md
+launch-claude.ps1
+~$*.xlsx
